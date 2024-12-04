@@ -19,8 +19,7 @@ TD4 = activate tap dance 4 (toggle =+ or -_)
 DF2 = go to layer for minor controls
 
 
-## Layer 2
-![image](https://github.com/user-attachments/assets/44f9ee0c-9a8c-4317-85b6-a8febff738e1)
+## Layer 2 : currently empty. 
 
 ## layer 3 : currently empty.
 
